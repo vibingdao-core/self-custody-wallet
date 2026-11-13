@@ -1,4 +1,4 @@
-# Vibing Self Custody Wallet
+# Vibe Self Custody Wallet
 
 > A self-custody wallet engineered for uncompromising security and lightning-fast trading.
 
@@ -10,7 +10,7 @@
 
 ## Overview
 
-Vibing Wallet is a non-custodial crypto wallet built for traders who demand both ironclad security and execution speed. Your keys never leave your device, and your trades never wait in line. Designed from the ground up for active on-chain traders, Vibing combines hardware-grade key management with a high-performance trading engine optimized for sub-second order routing.
+Vibe Wallet is a non-custodial crypto wallet built for traders who demand both ironclad security and execution speed. Your keys never leave your device, and your trades never wait in line. Designed from the ground up for active on-chain traders, Vibe combines hardware-grade key management with a high-performance trading engine optimized for sub-second order routing.
 
 **You own your keys. You own your trades. No middlemen, no custodians, no compromises.**
 
@@ -19,7 +19,7 @@ Vibing Wallet is a non-custodial crypto wallet built for traders who demand both
 ## Key Features
 
 ### 🔐 Security First
-- **True self-custody** — Private keys are generated and stored locally; Vibing servers never see them
+- **True self-custody** — Private keys are generated and stored locally; Vibe servers never see them
 - **Hardware wallet support** — Native integration with Ledger, Trezor, and other major hardware devices
 - **Encrypted local storage** — AES-256 encryption with a user-defined passphrase
 - **Biometric unlock** — Face ID, Touch ID, and Android biometric authentication
@@ -53,10 +53,10 @@ Vibing Wallet is a non-custodial crypto wallet built for traders who demand both
 
 ### Desktop (macOS, Windows, Linux)
 
-Download the latest release from [Vibing.io/download](https://Vibing.io/download), or build from source:
+Download the latest release from [Vibe.io/download](https://Vibe.io/download), or build from source:
 
 ```bash
-git clone https://github.com/Vibing/NART-wallet.git
+git clone https://github.com/Vibe/NART-wallet.git
 cd NART-wallet
 npm install
 npm run build
@@ -65,7 +65,7 @@ npm start
 
 ### Mobile
 - [iOS App Store](https://apps.apple.com/app/NART-finance)
-- [Google Play](https://play.google.com/store/apps/details?id=io.Vibing)
+- [Google Play](https://play.google.com/store/apps/details?id=io.Vibe)
 
 ### Browser Extension
 - [Chrome Web Store](https://chrome.google.com/webstore)
@@ -75,9 +75,9 @@ npm start
 
 ## Quick Start
 
-1. **Install** Vibing on your platform of choice.
+1. **Install** Vibe on your platform of choice.
 2. **Create a wallet** or import an existing one using a seed phrase or hardware device.
-3. **Back up your seed phrase** — write it down and store it offline. Vibing cannot recover it for you.
+3. **Back up your seed phrase** — write it down and store it offline. Vibe cannot recover it for you.
 4. **Fund your wallet** by sending crypto to your address or bridging from another chain.
 5. **Start trading** — connect to any dApp or use the built-in swap interface.
 
@@ -85,7 +85,7 @@ npm start
 
 ## Architecture
 
-Vibing is built on a modular, security-focused architecture:
+Vibe is built on a modular, security-focused architecture:
 
 ```
 ┌─────────────────────────────────────────────────┐
@@ -108,14 +108,14 @@ Vibing is built on a modular, security-focused architecture:
 
 ## Security
 
-Security is the foundation of Vibing, not an afterthought.
+Security is the foundation of Vibe, not an afterthought.
 
 - **Audits** — Audited by leading security firms; full reports available in [`/audits`](./audits)
 - **Bug bounty** — Up to $250,000 for critical vulnerabilities. See [SECURITY.md](./SECURITY.md)
 - **Reproducible builds** — Verify that the binary you run matches the public source code
 - **No telemetry by default** — Opt-in only, never tied to wallet addresses
 
-If you discover a security vulnerability, please email **security@Vibing.io** rather than opening a public issue.
+If you discover a security vulnerability, please email **security@Vibe.io** rather than opening a public issue.
 
 ---
 
@@ -150,23 +150,23 @@ npm run dev
 
 ## License
 
-Vibing is released under the [MIT License](./LICENSE).
+Vibe is released under the [MIT License](./LICENSE).
 
 ---
 
 ## Disclaimer
 
-Vibing is non-custodial software. You are solely responsible for the security of your seed phrase and private keys. Lost keys cannot be recovered. Cryptocurrency trading involves substantial risk; never trade more than you can afford to lose. Vibing is provided "as is" without warranty of any kind.
+Vibe is non-custodial software. You are solely responsible for the security of your seed phrase and private keys. Lost keys cannot be recovered. Cryptocurrency trading involves substantial risk; never trade more than you can afford to lose. Vibe is provided "as is" without warranty of any kind.
 
 ---
 
 ## Links
 
-- 🌐 Website: [Vibing.io](https://Vibing.io)
-- 📖 Docs: [docs.Vibing.io](https://docs.Vibing.io)
-- 🐦 Twitter: [@Vibing](https://twitter.com/Vibing)
-- 💬 Discord: [discord.gg/Vibing](https://discord.gg/Vibing)
-- 📧 Contact: hello@Vibing.io
+- 🌐 Website: [Vibe.io](https://Vibe.io)
+- 📖 Docs: [docs.Vibe.io](https://docs.Vibe.io)
+- 🐦 Twitter: [@Vibe](https://twitter.com/Vibe)
+- 💬 Discord: [discord.gg/Vibe](https://discord.gg/Vibe)
+- 📧 Contact: hello@Vibe.io
 
 ---
 
